@@ -1,0 +1,292 @@
+task_id,task_message,task_type,has_bug_fixing,has_code_refactoring,is_fix_related,is_bug_fixing,is_refactoring,total_lines_added_in_commit,total_lines_deleted_in_commit,total_files_affected,total_files_changed,author_email,committer_email,authored_at,authored_year,commited_at,commited_year,commit_time,author_experience,committer_experience,code_quality,contribution_complexity,communication,duration
+766f9906a15ef7548ed922f90c5412e569afbd64,importing incubator repo (flat),,,,False,False,False,1064635,0,2233,748,johndament@apache.org,johndament@apache.org,"11/08/2016, 04:49:49",2016,"11/08/2016, 04:49:49",2016,1,0,0,1.0,4,False,0.0
+60706cb54f9f7f9aacfe492afc39a7b9e9efab43,Minor thing to break buildbot.,,,,False,False,False,0,1,1,1,johndament@apache.org,johndament@apache.org,"11/09/2016, 03:57:13",2016,"11/09/2016, 03:57:13",2016,1,0,0,1.0,1,False,0.0
+f696ca0f7cc3eb7cbe1c50cf68ac15dee020638f,Trivial.,,,,False,False,False,1,0,1,1,johndament@apache.org,johndament@apache.org,"11/09/2016, 11:51:58",2016,"11/09/2016, 11:51:58",2016,2,0,0,1.0,1,False,0.0
+e1a75080208d566a4b457d3a41137284895eb173,Resyncing git mirror from svn.,,,,False,False,False,3002,795,55,55,johndament@apache.org,johndament@apache.org,"12/31/2016, 17:08:39",2016,"12/31/2016, 17:08:39",2016,3,0,0,1.0,3,False,0.0
+3e071e0c93f9282ba300eff8641dcb3b8083bdc7,Creating build script.,,,,False,False,False,11,0,1,1,johndament@apache.org,johndament@apache.org,"12/31/2016, 17:30:17",2016,"12/31/2016, 17:30:17",2016,3,0,0,1.0,1,False,0.0
+1ea8927f53b624582002b6b0e81df2355a3b62b1,Adding build script.,,,,False,False,False,2,2,1,1,johndament@apache.org,johndament@apache.org,"12/31/2016, 17:31:31",2016,"12/31/2016, 17:31:31",2016,3,0,0,1.0,1,False,0.0
+791c9b28cccebabf936a0838985508e0ee2a24df,Script to be executable.,,,,False,False,False,0,0,1,1,johndament@apache.org,johndament@apache.org,"12/31/2016, 17:32:38",2016,"12/31/2016, 17:32:38",2016,3,0,0,1.0,1,False,0.0
+c262d567d36a3a6dfd8940a77b3a2498512a14ea,Changing output location.,,,,False,False,False,4,1,1,1,johndament@apache.org,johndament@apache.org,"01/06/2017, 01:35:45",2017,"01/06/2017, 01:35:45",2017,1,1,1,1.0,1,False,0.0
+fe67c80d01e7c1318d3c5c3d3d2f4168cd8f973d,Changing locations again.,,,,False,False,False,2,4,1,1,johndament@apache.org,johndament@apache.org,"01/06/2017, 01:42:08",2017,"01/06/2017, 01:42:08",2017,1,1,1,1.0,1,False,0.0
+dd598af5914b8af634e2e7ee952de524eb40acaa,"Basic site using jbake, converted couple of guides.",,,,False,False,False,32897,0,57,30,johndament@apache.org,johndament@apache.org,"01/15/2017, 01:17:28",2017,"01/15/2017, 01:17:28",2017,1,1,1,1.0,2,False,0.0
+c6e47152edce1862f76c00bd038d45e7ed6cae63,Converted a few more pages.  Removed placeholder content.  Updated templates.,,,,False,False,False,5047,143,14,7,johndament@apache.org,johndament@apache.org,"01/15/2017, 13:59:38",2017,"01/15/2017, 13:59:38",2017,3,1,1,1.0,2,False,0.0
+bfa7c884ec6e5b82cca5b3b2f3d21db8a51e40e8,Cleaning up website layout.  Adding new logo.,,,,False,False,False,359,6,26,9,johndament@apache.org,johndament@apache.org,"03/18/2017, 14:41:14",2017,"03/18/2017, 14:41:14",2017,3,1,1,1.0,2,False,0.0
+f59ab76b0efd84f6653df460f1a341d10acc3bb0,Continuing progress on converting to asciidoc.,,,,False,False,False,4547,92,40,18,johndament@apache.org,johndament@apache.org,"04/18/2017, 00:08:57",2017,"04/18/2017, 00:10:56",2017,1,1,1,1.0,3,False,0.03305555555555555
+6be87828855ff10a76b389fb9296c826e0926f36,Adding build script wrapper.,,,,False,False,False,14,0,1,1,johndament@apache.org,johndament@apache.org,"04/18/2017, 01:36:49",2017,"04/18/2017, 01:36:49",2017,1,1,1,1.0,1,False,0.0
+beb6c6b3f924141031532fbbf9c4113601ce5b30,Do a recursive copy.,,,,False,False,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"04/18/2017, 01:37:24",2017,"04/18/2017, 01:37:24",2017,1,1,1,1.0,1,False,0.0
+d5c0224efaf540fcef3643e1b04ab376361a248f,Change how generation works.,,,,False,False,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"04/18/2017, 01:54:06",2017,"04/18/2017, 01:54:06",2017,1,1,1,1.0,1,False,0.0
+6e8501cdaa0cbe79c42666da7aea6a6e3e633b53,Output is going to build/jbake.,,,,False,False,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"04/18/2017, 02:26:40",2017,"04/18/2017, 02:26:40",2017,1,1,1,1.0,1,False,0.0
+f5cc1307e19829ae8665087f39857463c98bd900,"Removing gradle build, use native JBake.",,,,False,False,False,1,37,2,1,johndament@apache.org,johndament@apache.org,"06/16/2017, 23:57:22",2017,"06/16/2017, 23:57:22",2017,4,1,1,1.0,2,False,0.0
+614634b930ffb6a904e49d6b07ba862fe4c6295b,Setup output to working directory.,,,,False,False,False,5,5,1,1,johndament@apache.org,johndament@apache.org,"06/17/2017, 00:03:21",2017,"06/17/2017, 00:03:21",2017,1,1,1,1.0,1,False,0.0
+5140f7fe930f0e84291d6eed9bd5c768051f9a01,"Cleaning up footer to be more ASF.  Adding ASF header navigation, incubator specific styles.",,,,False,False,False,51,9,4,4,johndament@apache.org,johndament@apache.org,"06/17/2017, 12:10:45",2017,"06/17/2017, 12:10:45",2017,3,1,1,1.0,1,False,0.0
+c21565f135d3483917a049c5af69cd3e6ddfb4bf,Migrate landing page to use a homepage template.,,,,False,False,False,33,27,4,3,johndament@apache.org,johndament@apache.org,"06/17/2017, 12:11:27",2017,"06/17/2017, 12:11:27",2017,3,1,1,1.0,2,False,0.0
+088dcf8e14bdc41b4e1a1a2b9b563b971925a68b,Use a custom bake script to allow DTD processing over HTTP.,,,,False,False,False,4,1,2,2,johndament@apache.org,johndament@apache.org,"06/17/2017, 12:12:28",2017,"06/17/2017, 12:12:28",2017,3,1,1,1.0,1,False,0.0
+2069fb402f7410feb050d3687a29023dce8c709a,"Changing favicon, base URL.",,,,False,False,False,2,2,2,2,johndament@apache.org,johndament@apache.org,"06/17/2017, 12:18:58",2017,"06/17/2017, 12:18:58",2017,3,1,1,1.0,1,False,0.0
+9e2a80b866a22355910457d4369b14d1c338b627,Use literal instead of source.,,,,False,False,False,3,3,1,1,johndament@apache.org,johndament@apache.org,"06/17/2017, 20:54:37",2017,"06/17/2017, 20:54:37",2017,4,1,1,1.0,1,False,0.0
+d1fcec5604321197f3eecc423b238efdb7968a3b,Create a README to give some instructions on how to get setup with the site.  Removed unneeded file.,,,,False,False,False,29,2,3,2,johndament@apache.org,johndament@apache.org,"06/17/2017, 21:12:24",2017,"06/17/2017, 21:12:24",2017,4,1,1,1.0,2,False,0.0
+64a97b9d47dc268b3214be4eacc9e134dbbb1aaf,Include the new mail alias.,,,,False,False,False,7,0,1,1,johndament@apache.org,johndament@apache.org,"06/17/2017, 22:05:18",2017,"06/17/2017, 22:05:18",2017,4,1,1,1.0,1,False,0.0
+e258a499f838c2f245c8551c2c2938853012ed1c,Continued converting pages to new layout and technology.,,,,False,False,False,2411,2045,22,15,johndament@apache.org,johndament@apache.org,"06/24/2017, 11:32:00",2017,"06/24/2017, 11:32:00",2017,2,1,1,1.0,3,False,0.0
+0093641c04bd819c3d8b6114efd77f6917e1fb46,Trying to see if this makes images dir work.,,,,False,False,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"06/24/2017, 12:44:45",2017,"06/24/2017, 12:44:45",2017,3,1,1,1.0,1,False,0.0
+0d2e72f25a90be1cf3991323c64e249156770628,Use https url.,,,,False,False,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"06/24/2017, 12:47:46",2017,"06/24/2017, 12:47:46",2017,3,1,1,1.0,1,False,0.0
+783b43428dce066ec6463912e354203ffbb062d5,Include estimated reading time.,,,,False,False,False,296,2,4,4,johndament@apache.org,johndament@apache.org,"06/24/2017, 13:04:06",2017,"06/24/2017, 13:04:06",2017,3,1,1,1.0,2,False,0.0
+62a0b9ff7d423e890fc6bbb805403055754f209a,Last bits of migration done.,,,,False,False,False,395,734,5,5,johndament@apache.org,johndament@apache.org,"06/24/2017, 14:14:02",2017,"06/24/2017, 14:14:02",2017,3,1,1,1.0,2,False,0.0
+c058f56f59f625ee7a662f0d9d9b155664518eeb,Removed unused pages.  Adding retired page.  Move a few pages around.,,,,False,False,False,40,19,7,6,johndament@apache.org,johndament@apache.org,"06/24/2017, 14:26:01",2017,"06/24/2017, 14:26:01",2017,3,1,1,1.0,2,False,0.0
+ddf2f8e7380ba110c55f64449b6d1e587555382d,Clean up flow for mentor page.,,,,False,False,False,8,3,1,1,johndament@apache.org,johndament@apache.org,"06/24/2017, 14:29:55",2017,"06/24/2017, 14:29:55",2017,3,1,1,1.0,1,False,0.0
+d5b78877ce3ec36250e5443c90ace9bd8185c813,"Fix mentor guide bullets.  Added FAQ to header, fixed HTML left overs.",,,,True,True,False,13,13,3,3,johndament@apache.org,johndament@apache.org,"06/24/2017, 14:46:41",2017,"06/24/2017, 14:46:41",2017,3,1,1,0.9705882352941176,1,False,0.0
+413487a5d3e53e937f7b320c9e5b2b5b9980c2e9,Also build the SVN bits with the git website.,,,,False,False,False,19,0,1,1,johndament@apache.org,johndament@apache.org,"07/08/2017, 23:36:39",2017,"07/08/2017, 23:40:07",2017,4,1,1,0.9714285714285714,1,False,0.057777777777777775
+6dc9f0d2fb286a4b5370e47f126846ff4cb995e6,Copy build output not checkout.,,,,False,False,False,3,3,1,1,johndament@apache.org,johndament@apache.org,"07/08/2017, 23:43:09",2017,"07/08/2017, 23:43:09",2017,4,1,1,0.9722222222222222,1,False,0.0
+086fe35093a1323d33fdbfb091483b7c725ccce1,Adding styles from old site.,,,,False,False,False,485,0,2,2,johndament@apache.org,johndament@apache.org,"07/08/2017, 23:56:44",2017,"07/08/2017, 23:56:44",2017,4,1,1,0.972972972972973,2,False,0.0
+9cffb5d6a0db85abe3f5e208c6580593dd91f120,"Adding .htaccess file.  Update how to update the website, change script's commit message.",,,,False,False,False,235,2,3,3,johndament@apache.org,johndament@apache.org,"07/13/2017, 01:02:35",2017,"07/13/2017, 01:02:35",2017,1,1,1,0.9736842105263158,2,False,0.0
+764c1204b633cc2e33e5656013c7925959d0cffe,Fix base URL.,,,,True,True,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"07/13/2017, 01:10:10",2017,"07/13/2017, 01:10:10",2017,1,1,1,0.9487179487179487,1,False,0.0
+36100502d9dcabae86ce2a5b7d08054401124676,Force build to include .htaccess.,,,,False,False,False,1,0,1,1,johndament@apache.org,johndament@apache.org,"07/13/2017, 01:25:25",2017,"07/13/2017, 01:25:25",2017,1,1,1,0.95,1,False,0.0
+a766f8d2811132282853cf2a7a1b910a772ac6d6,Force copy .htaccess.,,,,False,False,False,1,0,1,1,johndament@apache.org,johndament@apache.org,"07/13/2017, 01:29:20",2017,"07/13/2017, 01:29:20",2017,1,1,1,0.9512195121951219,1,False,0.0
+7540a465d6523c73b98940e5deaf6a7729c8a90d,Add content to content/ directory,,,,False,False,False,3,3,1,1,johndament@apache.org,johndament@apache.org,"07/13/2017, 01:35:06",2017,"07/13/2017, 01:35:06",2017,1,1,1,0.9523809523809523,1,False,0.0
+b39f2f0406be8eb80fff814c98dd93505eb5478c,Fix div sizing on homepage.,,,,True,True,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"07/13/2017, 01:42:42",2017,"07/13/2017, 01:42:42",2017,1,1,1,0.9302325581395349,1,False,0.0
+750e99e157a2d3cd373b2f7e4b594571433ad980,Fix website links.,,,,True,True,False,4,5,1,1,johndament@apache.org,johndament@apache.org,"07/13/2017, 01:48:03",2017,"07/13/2017, 01:48:03",2017,1,1,1,0.9090909090909091,1,False,0.0
+02579dd2ccd33db3de1320110bbe30083f590d2a,Create redirects podlings.xml/dtd/xsd,,,,False,False,False,2,0,1,1,johndament@apache.org,johndament@apache.org,"07/19/2017, 01:38:33",2017,"07/19/2017, 01:38:33",2017,1,1,1,0.9111111111111111,1,False,0.0
+97be61284d1048e163f10fad42e06b12b2844904,"tweak regex, the site is currently very b0rken",,,,False,False,False,1,1,1,1,gmcdonald@apache.org,gmcdonald@apache.org,"07/19/2017, 08:45:55",2017,"07/19/2017, 08:45:55",2017,2,0,0,0.9130434782608696,1,False,0.0
+6baac1859ddba056bf0c9087966232eca489ec8e,Run clutch in the build.,,,,False,False,False,1,0,1,1,johndament@apache.org,johndament@apache.org,"07/19/2017, 22:27:53",2017,"07/19/2017, 22:27:53",2017,4,1,1,0.9148936170212766,1,False,0.0
+50edf7df6c8f36a3d039ce86b0481c9de04dc7ef,"INCUBATOR-202 Split graduation and handover to different guides, as they have different usage.
+Clarify how to use the infra TLP requests and removed unnecessary sections.
+Remove the template (its in two other places).  Clarify subproject votes.
+Clarifying who contacts new chairs, security links and dropping infrastructure mail subscriptions.",,,,False,False,False,242,339,3,2,johndament@apache.org,johndament@apache.org,"07/19/2017, 01:15:49",2017,"07/21/2017, 01:19:27",2017,1,1,1,0.9166666666666666,2,False,48.06055555555555
+9cde31c1159c875661f1f41c19269e90de39b28f,Clarify some steps in retirement.,,,,False,False,False,6,5,1,1,johndament@apache.org,johndament@apache.org,"07/21/2017, 01:20:28",2017,"07/21/2017, 01:20:28",2017,1,1,1,0.9183673469387755,1,False,0.0
+157da8744214c4f55590a13635ac3f234b540db1,Minor fixes to the naming links.  Adding links to the website policies and best practices guides at Apache.,,,,True,True,False,3,2,2,2,johndament@apache.org,johndament@apache.org,"07/23/2017, 12:46:58",2017,"07/23/2017, 12:46:58",2017,3,1,1,0.9,1,False,0.0
+0e472cbabdb05836663f1c2fc1f9f6f578e00f9c,Fix page titles to match.,,,,True,True,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"07/23/2017, 12:52:13",2017,"07/23/2017, 12:52:13",2017,3,1,1,0.8823529411764706,1,False,0.0
+2b06a48014bba9a7ad950f4ef7f6a0705593a808,Adding links to the lists of podlings/projects.,,,,False,False,False,9,0,1,1,johndament@apache.org,johndament@apache.org,"07/26/2017, 01:12:36",2017,"07/26/2017, 01:12:36",2017,1,1,1,0.8846153846153846,1,False,0.0
+bff78b12b6bc048a4de7bd45a72c356530b5ebee,Wrap long lines for easier reading,,,,False,False,False,16,7,1,1,sebb@apache.org,sebb@apache.org,"07/30/2017, 21:43:54",2017,"07/30/2017, 21:43:54",2017,4,0,0,0.8867924528301887,1,False,0.0
+6f6e45e83c31bf124dc9e42ce17dc09565a3e7ab,Default to current version of file,,,,False,False,False,1,1,1,1,sebb@apache.org,sebb@apache.org,"07/30/2017, 21:50:12",2017,"07/30/2017, 21:50:12",2017,4,0,0,0.8703703703703703,1,False,0.0
+dd43258324aefe7112a0f01205d24519a2a781fc,Redirect does not work. Try another fix.,,,,True,True,False,1,1,1,1,sebb@apache.org,sebb@apache.org,"07/30/2017, 22:47:06",2017,"07/30/2017, 22:47:06",2017,4,0,0,0.8545454545454545,1,False,0.0
+4d41c4a4c7c0e8aa4b218696f28646bf4ff75c8b,Just use https: always.,,,,False,False,False,1,1,1,1,sebb@apache.org,sebb@apache.org,"07/30/2017, 22:50:27",2017,"07/30/2017, 22:50:27",2017,4,0,0,0.8571428571428572,1,False,0.0
+2d717a53ba7fbeb78b0abbadb713b10b0b747153,fix strong metadata,,,,True,True,False,2,2,1,1,craig.russell@oracle.com,craig.russell@oracle.com,"08/02/2017, 23:46:18",2017,"08/02/2017, 23:46:18",2017,4,0,0,0.8421052631578947,1,False,0.0
+cafb025932f2630d40cfaa35b5e98a6076a8350c,Clarify the email format.,,,,False,False,False,4,2,2,2,johndament@apache.org,johndament@apache.org,"08/03/2017, 10:37:25",2017,"08/03/2017, 10:37:25",2017,2,1,1,0.8448275862068966,2,False,0.0
+15abc338162668d16a777a96c03b463748f46991,Update readme with information on how to clone the source code.,,,,False,False,False,5,0,1,1,johndament@apache.org,johndament@apache.org,"08/03/2017, 10:37:41",2017,"08/03/2017, 10:37:41",2017,2,1,1,0.847457627118644,1,False,0.0
+46311dadc8843f60bbc4ab43c2a000fe1d668a91,Fix typo in ip_clearance.ad,,,,True,True,False,1,1,1,1,craig.russell@oracle.com,craig.russell@oracle.com,"08/06/2017, 22:48:47",2017,"08/06/2017, 22:48:47",2017,4,0,0,0.8333333333333334,1,False,0.0
+fbe606fd3b8d6dee31daf79c35007411f33ceca7,Drop obsolete copy of .htaccess,,,,False,False,False,1,0,1,1,sebb@apache.org,sebb@apache.org,"08/10/2017, 10:38:21",2017,"08/10/2017, 10:38:21",2017,2,0,0,0.8360655737704918,1,False,0.0
+e51b86c3351df3b71c3f2848dfcec0dbc0ebe5b4,No longer needed,,,,False,False,False,0,1,1,1,sebb@apache.org,sebb@apache.org,"08/10/2017, 10:55:33",2017,"08/10/2017, 10:55:33",2017,2,0,0,0.8387096774193549,1,False,0.0
+dea42155e136b93e495b9a346638f3c0934306e5,Fix link to Phonebook PMC,,,,True,True,False,1,1,1,1,johndament@apache.org,johndament@apache.org,"08/17/2017, 02:07:18",2017,"08/17/2017, 02:07:18",2017,1,1,1,0.8253968253968254,1,False,0.0
+91f0207c86928848993417b99cb8cb6a9a0c99be,Fixing link to APMM.,,,,True,True,False,1,1,1,1,john.d.ament@gmail.com,john.d.ament@gmail.com,"09/04/2017, 14:43:24",2017,"09/04/2017, 14:43:24",2017,3,0,0,0.8125,1,False,0.0
+835934b3ad041028e993405659d00999244d8a02,Updating welcome message to align to new repos.,,,,False,False,False,6,6,1,1,john.d.ament@gmail.com,john.d.ament@gmail.com,"09/24/2017, 12:26:24",2017,"09/24/2017, 12:26:24",2017,3,0,0,0.8153846153846154,1,False,0.0
+404c75f0ddabe5cd11ba1892462b645328f1a726,Underline the phrases as indicated,,,,False,False,False,2,2,1,1,sebb@apache.org,sebb@apache.org,"10/06/2017, 15:34:44",2017,"10/06/2017, 15:34:44",2017,3,0,0,0.8181818181818181,1,False,0.0
+1c6f9b222a9c9e43a4cea225a5e29dd1c73a28ac,Fix link,,,,True,True,False,1,1,1,1,sebb@apache.org,sebb@apache.org,"10/06/2017, 15:40:04",2017,"10/06/2017, 15:40:04",2017,3,0,0,0.8059701492537313,1,False,0.0
+2edca3a8a089981aef825da3e103cdd40004b22e,Update mailing list request links,,,,False,False,False,2,3,1,1,lresende@apache.org,lresende@apache.org,"11/28/2017, 17:14:56",2017,"11/28/2017, 17:14:56",2017,3,0,0,0.8088235294117647,1,False,0.0
+095666ccf36c37ba97c286e0bd3d53e9b2f60c01, Update mailing list request with correct links,,,,False,False,False,1,1,1,1,lresende@apache.org,lresende@apache.org,"11/28/2017, 17:52:31",2017,"11/28/2017, 17:52:31",2017,3,0,0,0.8115942028985508,1,False,0.0
+1efb27824c86b3f4b7c6bc7e351db66b118f5200,"Update ppmc.ad
+
+Add text about removing a mentor.",,,,False,False,False,8,0,1,1,sorber@apache.org,noreply@github.com,"11/29/2017, 20:48:43",2017,"11/29/2017, 20:48:43",2017,4,0,0,0.8142857142857143,1,True,0.0
+fd349b0eec6942872f913234c8fdea11b81f5d96,Updating mentor guide for newer services and processes.,,,,False,False,False,30,17,1,1,john.d.ament@gmail.com,john.d.ament@gmail.com,"12/10/2017, 14:19:48",2017,"12/10/2017, 14:19:48",2017,3,0,0,0.8169014084507042,2,False,0.0
+31cdf0c52f5bb17bc43e599c7b8a5bcced67c967,Information on managing subscriptions.,,,,False,False,False,3,1,2,2,john.d.ament@gmail.com,john.d.ament@gmail.com,"12/10/2017, 14:39:58",2017,"12/10/2017, 14:39:58",2017,3,0,0,0.8194444444444444,1,False,0.0
+c2a73ef4cf4fac41f032ff9771de6100defb86fb,Fix typo,,,,True,True,False,1,1,1,1,yd19tc@aliyun.com,noreply@github.com,"01/02/2018, 12:53:57",2018,"01/02/2018, 12:53:57",2018,3,0,1,0.8082191780821918,1,True,0.0
+50b14d5524490bbc02d8fc8dfc9bcb420e920a4d,Redirect /wave to status page.,,,,False,False,False,1,0,1,1,john.ament@spartasystems.com,john.ament@spartasystems.com,"01/27/2018, 14:41:26",2018,"01/27/2018, 14:41:26",2018,3,0,0,0.8108108108108107,1,False,0.0
+5e739d5b62bb5215916b0684d25685b81985b491,Use https urls.,,,,False,False,False,2,2,1,1,john.ament@spartasystems.com,john.ament@spartasystems.com,"03/09/2018, 03:20:34",2018,"03/09/2018, 03:20:34",2018,1,0,0,0.8133333333333334,1,False,0.0
+d27f024bed4b997db04d5979d55b7b8ca5647eab,Fixing service desk links.  Adding note to use JIRA (old way),,,,True,True,False,5,5,1,1,john.ament@spartasystems.com,john.ament@spartasystems.com,"03/09/2018, 10:39:02",2018,"03/09/2018, 10:39:02",2018,2,0,0,0.8026315789473684,1,False,0.0
+fc2559ef5faaca1655f151e8e400cb96983e3822,Add 'getting in touch with the Incubator' section,,,,False,False,False,8,0,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"06/04/2018, 14:22:37",2018,"06/04/2018, 14:22:37",2018,3,0,0,0.8051948051948052,1,False,0.0
+05a2bf293ce5c1f98a0b9eafaebc1e294d18a6a0,Update README w.r.t publishing process,,,,False,False,False,5,4,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"06/04/2018, 14:28:44",2018,"06/04/2018, 14:28:44",2018,3,0,0,0.8076923076923077,1,False,0.0
+b7a215b61cbc2237c32e00a0080cdbcd1407af99,"Trival change, does this help mirror the renamed UNUSED-... branch?",,,,False,False,False,1,1,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"06/05/2018, 12:17:56",2018,"06/05/2018, 12:17:56",2018,3,0,0,0.810126582278481,1,False,0.0
+378af3cf9f2b5220bffee60f9b5218a13b3fb886,Clarify title,,,,False,False,False,1,1,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"06/05/2018, 12:19:42",2018,"06/05/2018, 12:19:42",2018,3,0,0,0.8125,1,False,0.0
+a9338210dba07526e496ca09a031950f12fc8ea3,Fixed Spelling.,,,,True,True,False,1,1,1,1,casey.jimmy@gmail.com,casey.jimmy@gmail.com,"07/29/2018, 21:47:32",2018,"07/29/2018, 21:47:32",2018,4,0,0,0.8024691358024691,1,False,0.0
+678b71b0ae6e10053e506791757dd6ce785ad2c2,"Fixed bold styling in FAQ
+
+There was some HTML within the FAQ page which appeared to be intended for making a word bold. This has been replaced with correct Asciidoctor syntax.",,,,True,True,False,1,1,1,1,alasdair@mercer.scot,mercer.alasdair@gmail.com,"08/15/2018, 19:19:24",2018,"08/15/2018, 19:27:40",2018,4,0,0,0.7926829268292683,1,True,0.13777777777777778
+b36d5fefff22a7bfa45bd9a666da45ea0004d81d,Try to fix up syntax,,,,True,True,False,12,11,1,1,sebb@apache.org,sebb@apache.org,"08/20/2018, 16:16:55",2018,"08/20/2018, 16:16:55",2018,3,1,1,0.7831325301204819,1,False,0.0
+e03be863a5be1bd0914b6f47bf2c864892f94fd5,Try to fix up syntax - again,,,,True,True,False,5,1,1,1,sebb@apache.org,sebb@apache.org,"08/20/2018, 16:24:12",2018,"08/20/2018, 16:24:12",2018,3,1,1,0.7738095238095238,1,False,0.0
+f139eb7f27976b0eb0232fabc6318e45b3b4e262,Try to fix up syntax - yet again,,,,True,True,False,1,1,1,1,sebb@apache.org,sebb@apache.org,"08/20/2018, 16:28:46",2018,"08/20/2018, 16:28:46",2018,3,1,1,0.7647058823529411,1,False,0.0
+c3242ff3a04c954e8cac2767aa0763dc83f5342b,Anchors use underscores; add link to transfer guide,,,,False,False,False,20,17,1,1,sebb@apache.org,sebb@apache.org,"08/20/2018, 16:45:49",2018,"08/20/2018, 16:45:49",2018,3,1,1,0.7674418604651163,2,False,0.0
+125eff774ac980382a7461ce5272bca1820c1af8,Anchors ignore (),,,,False,False,False,11,11,1,1,sebb@apache.org,sebb@apache.org,"08/20/2018, 17:10:10",2018,"08/20/2018, 17:10:10",2018,3,1,1,0.7701149425287357,1,False,0.0
+ee5266edf4a57459a60af64948e781ef0ae586bd,"Suggest using 'podling website template' instead of CMS
+
+Avoid using CMS as it has been deprecated, and also update
+text mentioning that website can use either svn or git as
+source epository.",,,,False,False,False,4,4,1,1,lresende@apache.org,lresende@apache.org,"09/06/2018, 17:51:04",2018,"09/08/2018, 23:36:24",2018,4,1,1,0.7727272727272727,1,False,53.75555555555555
+7d666c1954704ddbaa0e73b07365425703e5cdb4,fix spelling (for Sharon),,,,True,True,False,2,2,1,1,jmclean@apache.org,jmclean@apache.org,"09/13/2018, 21:23:46",2018,"09/13/2018, 21:23:46",2018,4,0,0,0.7640449438202247,1,False,0.0
+737ef81f9882ab5b0fe271990a827fe10d5f5c60,"Update incubation.ad
+
+Fix minor grammar and spelling mistakes",,,,True,True,False,4,4,1,1,sharan@apache.org,noreply@github.com,"09/14/2018, 07:31:53",2018,"09/14/2018, 07:31:53",2018,2,0,1,0.7555555555555555,1,True,0.0
+8eb0933917f23413ab63b22676017ab93d439c06,Podlings should report every month for the first three months.,,,,False,False,False,1,1,1,1,jmclean@apache.org,jmclean@apache.org,"09/14/2018, 23:26:07",2018,"09/14/2018, 23:26:07",2018,4,0,0,0.7582417582417582,1,False,0.0
+81053c3854cfeff7fd4a752ea7c93dfd1e103a3d,Added length of incubation section,,,,False,False,False,6,0,1,1,jmclean@apache.org,jmclean@apache.org,"09/15/2018, 00:16:02",2018,"09/15/2018, 00:16:02",2018,1,0,0,0.7608695652173914,1,False,0.0
+8598e486f56f925145b1ef79206597a0370735a7,removed some closing HTML tags that shouldn't be there,,,,False,False,False,4,4,2,1,jmclean@apache.org,jmclean@apache.org,"09/16/2018, 05:03:05",2018,"09/16/2018, 05:03:05",2018,1,0,0,0.7634408602150538,1,False,0.0
+3d4b0e2f2ceccbc4bf76f4e24d5e9bbaea3a05a0,remove 1/2 sentance,,,,False,False,False,1,2,1,1,jmclean@apache.org,jmclean@apache.org,"09/16/2018, 06:00:20",2018,"09/16/2018, 06:00:20",2018,2,0,0,0.7659574468085106,1,False,0.0
+77b05594dc4733db5b3134e84208937570a0abe2,fix spelling errors,,,,True,True,False,5,5,3,2,jmclean@apache.org,jmclean@apache.org,"09/16/2018, 06:01:20",2018,"09/16/2018, 06:01:20",2018,2,0,0,0.7578947368421053,1,False,0.0
+adb746c8629e0a7db3f6487b12870dee4d8759a6,"bake.sh: fix shell bugs
+
+- don't rely on bash
+- don't assume bash lives in /bin
+- correctly handle spaces in ""$@""",,,,True,True,False,2,2,1,1,lists@eitanadler.com,lists@eitanadler.com,"10/09/2018, 05:34:54",2018,"10/09/2018, 05:34:54",2018,1,0,0,0.75,1,False,0.0
+fbf55c52eb7eeb212d12d6b66a151b3e7bafe26b,"Improve friendliness of front page; point to navbar, more resources",,,,False,False,False,13,5,1,1,asf@shanecurcuru.org,asf@shanecurcuru.org,"10/17/2018, 16:30:25",2018,"10/17/2018, 16:30:25",2018,3,0,0,0.7525773195876289,1,False,0.0
+8ea0ee115e8b3f6ada46e49351c587e16a20e198,New page Patch by: sk,,,,False,False,False,80,0,1,1,asf@shanecurcuru.org,asf@shanecurcuru.org,"10/18/2018, 13:48:07",2018,"10/18/2018, 13:48:07",2018,3,0,0,0.7551020408163265,2,False,0.0
+4c0886d2dbe9e7268edf4458beb438b2dbe107a7,"Update publicity policy and point to guidelines, Patch by: sk",,,,False,False,False,3,5,1,1,asf@shanecurcuru.org,asf@shanecurcuru.org,"10/18/2018, 13:57:57",2018,"10/18/2018, 13:57:57",2018,3,0,0,0.7575757575757576,1,False,0.0
+6ef5baa8bfaa8915061bcc3d96a775db4f1dde51,"Minor tweak, testing publishing from GitHub",,,,False,False,False,1,1,1,1,bdelacretaz@apache.org,noreply@github.com,"03/04/2019, 14:08:12",2019,"03/04/2019, 14:08:12",2019,3,1,2,0.76,1,True,0.0
+a15bfcb8cce73443da22b19779f981e91b7395c8,Additional retired redirect notes,,,,False,False,False,8,0,1,1,sebb@apache.org,sebb@apache.org,"03/07/2019, 09:10:49",2019,"03/07/2019, 09:10:49",2019,2,2,2,0.7623762376237624,1,False,0.0
+252a21dbd159ae27e349030c22db758c0bc02fd8,"Add files via upload
+
+Footer automatically picks the current year for the copyright and is updated to mention registered trademarks(Apache)",,,,False,False,False,7,5,1,1,dave@davefisher.tech,noreply@github.com,"03/18/2019, 22:11:14",2019,"03/18/2019, 22:11:14",2019,4,0,2,0.7647058823529411,1,True,0.0
+8cd75ac5d814973f74e9fedc68b208a5fa5dcb3a,Adds spans for clutch pages. Update footer height.,,,,False,False,False,123,1,2,2,dave@davefisher.tech,noreply@github.com,"03/18/2019, 22:13:39",2019,"03/18/2019, 22:13:39",2019,4,0,2,0.7669902912621359,2,True,0.0
+ef447b055dd44db68e5447706a7b78c587658024,"Create clutch and includes folders
+
+This folder structure will hold the clutch report page plus generated podling clutch analysis pages and clutch reports to be included on the clutch report page.",,,,False,False,False,1,0,1,1,dave2wave@comcast.net,noreply@github.com,"03/18/2019, 22:18:51",2019,"03/18/2019, 22:18:51",2019,4,0,2,0.7692307692307692,1,True,0.0
+7a95a7d6da8d03793a8fe04c89e2c37f41882554,"Build with new clutch process and pages
+
+Build is reordered and uses a new clutch process. Site is baked after the SVN, Anakia, and Clutch2 are run. If clutch2 fails then the process should abort",,,,True,True,False,19,3,1,1,dave@davefisher.tech,noreply@github.com,"03/19/2019, 00:30:17",2019,"03/19/2019, 00:30:17",2019,1,0,2,0.7619047619047619,1,True,0.0
+5763d239a6162ecb5b28b404277071275bfa9995,The Jenkins job directory has a space in the name,,,,False,False,False,3,2,1,1,dave@davefisher.tech,noreply@github.com,"03/19/2019, 00:41:44",2019,"03/19/2019, 00:41:44",2019,1,0,2,0.7641509433962264,1,True,0.0
+7784e17429e56afa8df01f863ff587374a17a088,Fix the copying asciidoc pages created by clutch2,,,,True,True,False,4,6,1,1,dave@davefisher.tech,noreply@github.com,"03/19/2019, 00:48:46",2019,"03/19/2019, 00:48:46",2019,1,0,2,0.7570093457943925,1,True,0.0
+a6865198dba514c703c74b3451bd9feec24b0172,Moving the clutch page from svn to git,,,,False,False,False,379,0,1,1,dave@davefisher.tech,noreply@github.com,"03/19/2019, 18:54:22",2019,"03/19/2019, 18:54:22",2019,4,0,2,0.7592592592592593,2,True,0.0
+652153003d1baef84a94e9c3aea55f7c8c676b7f,correcting minor grammatical issues and syntax errors,,,,False,False,False,8,7,1,1,myrle@apache.org,myrle@apache.org,"03/21/2019, 10:32:44",2019,"03/21/2019, 10:32:44",2019,2,0,0,0.7522935779816513,1,False,0.0
+5d1dc44cad0d53052513d683efbdc574c181fca4,Further clarifying original text before adding new material.,,,,False,False,False,20,12,1,1,myrle@apache.org,myrle@apache.org,"03/21/2019, 11:09:18",2019,"03/21/2019, 11:09:18",2019,2,0,0,0.7545454545454545,2,False,0.0
+1e0a1ebde3769c04c984effe3acfe50f8c4a8ef9,adding section on discussing non-ASF releases.,,,,False,False,False,32,6,1,1,myrle@apache.org,myrle@apache.org,"03/21/2019, 11:35:15",2019,"03/21/2019, 11:35:15",2019,2,0,0,0.7567567567567568,2,False,0.0
+02537254283d5b77204ee165437949c6ff0e2287,Remove redundant information and point to README,,,,False,False,False,3,3,1,1,bdelacretaz@apache.org,noreply@github.com,"03/21/2019, 14:06:35",2019,"03/21/2019, 14:06:35",2019,3,1,2,0.7589285714285714,1,True,0.0
+1911aa235040db27a4ef98b0014240840f6beb1c,fixed  link,,,,True,True,False,1,1,1,1,myrle@apache.org,myrle@apache.org,"03/21/2019, 14:13:38",2019,"03/21/2019, 14:13:38",2019,3,0,0,0.752212389380531,1,False,0.0
+00d1883aaae5db4cb01069865fefe2f76ef78875,"Apache has officially moved all projects to gitbox
+
+...updated cloning instructions accordingly",,,,False,False,False,1,2,1,1,myrle@apache.org,noreply@github.com,"03/21/2019, 14:20:17",2019,"03/21/2019, 14:20:17",2019,3,0,2,0.7543859649122807,1,True,0.0
+4fcba30980645710674d3c8ba2d5cde6e081a6e9,Template updates - projects page and clutch link,,,,False,False,False,170,0,2,2,dave@davefisher.tech,noreply@github.com,"03/21/2019, 15:34:54",2019,"03/21/2019, 15:34:54",2019,3,0,2,0.7565217391304347,2,True,0.0
+be65c9dd19784b995a15f8d26ce161b1ab61aebb,Projects page,,,,False,False,False,7,0,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 15:37:26",2019,"03/21/2019, 15:37:26",2019,3,0,2,0.7586206896551724,1,True,0.0
+b96859b3fbb3eea4b82412d9b6b6033df41e9e34,Updated Baking recipe - activate projects page.,,,,False,False,False,72,4,5,5,dave@davefisher.tech,noreply@github.com,"03/21/2019, 15:52:34",2019,"03/21/2019, 15:52:34",2019,3,0,2,0.7606837606837606,2,True,0.0
+507a918a1dae74c22671008e1d65c9f577f234c3,Fix breaking change,,,,True,True,False,3,2,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 16:00:05",2019,"03/21/2019, 16:00:05",2019,3,0,2,0.7542372881355932,1,True,0.0
+c8541f169a06d3c91d9e04c5a74d45fe58d74afd,Wrong heading level,,,,True,True,False,1,1,1,1,sebb@apache.org,sebb@apache.org,"03/21/2019, 16:02:36",2019,"03/21/2019, 16:03:09",2019,3,2,2,0.7478991596638656,1,False,0.009166666666666667
+a8eec52dfa3c705fc3bd9bd15bb85b0a29d21b2f,"bake.sh instructions vary by version
+
+JBake version on Jenkins is not the latest and is not on the PATH.
+For JBake 2.6.4 installed on macOS using homebrew we can call jbake directly instead of accessing the core jar file.",,,,False,False,False,2,1,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 16:15:00",2019,"03/21/2019, 16:15:00",2019,3,0,2,0.75,1,True,0.0
+55ed4232cb0bba9ec0ffe5d6647f21aeae45700c,Add titles to columns; repeat at end of table,,,,False,False,False,39,18,1,1,sebb@apache.org,sebb@apache.org,"03/21/2019, 16:55:17",2019,"03/21/2019, 16:55:48",2019,3,2,2,0.7520661157024793,2,False,0.008611111111111111
+2b967cfd3c97c59cb8bbd54a34114058b94703aa,Make executable,,,,False,False,False,0,0,1,1,sebb@apache.org,sebb@apache.org,"03/21/2019, 17:12:20",2019,"03/21/2019, 17:12:20",2019,3,2,2,0.7540983606557377,1,False,0.0
+7b896244fbcf8adafaa12f4378eebdbc4cadb99d,Properly invoke jbake 2.6.x,,,,False,False,False,2,3,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 18:53:32",2019,"03/21/2019, 18:53:32",2019,4,0,2,0.7560975609756098,1,True,0.0
+3fd85bf1be6e0caaccfdde5bf7a0d8ceb7709834,"Seems Baking broke some css, also need bootstrap change",,,,False,False,False,30,12,2,2,dave@davefisher.tech,noreply@github.com,"03/21/2019, 19:24:44",2019,"03/21/2019, 19:24:44",2019,4,0,2,0.7580645161290323,1,True,0.0
+ef80d7588a110cac9368483dc48902546b23a325,"Update README to reflect JBake requirements
+
+Upgraded to JBake 2.6.3 on Jenkins.
+bake.sh is updated to reflect change to using the jbake script.
+Examples of JBAKE_HOME are provided.",,,,False,False,False,7,3,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 19:47:47",2019,"03/21/2019, 19:47:47",2019,4,0,2,0.76,1,True,0.0
+0853417fc6ab73367c3de1cad74efbbaa6ec14a2,Format,,,,False,False,False,2,2,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 19:49:00",2019,"03/21/2019, 19:49:00",2019,4,0,2,0.7619047619047619,1,True,0.0
+1ad15be3bd453bf4eaf5f343aa29fbd04fdab195,Switching between markdown and asciidoctor is mind bending,,,,False,False,False,3,3,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 19:52:28",2019,"03/21/2019, 19:52:28",2019,4,0,2,0.7637795275590551,1,True,0.0
+8a36f225cdaa789f0015775b4844c1971e5992db,Fix block markers and some quoting issues,,,,True,True,False,31,32,7,6,sebb@apache.org,sebb@apache.org,"03/21/2019, 20:20:59",2019,"03/21/2019, 20:20:59",2019,4,2,2,0.7578125,1,False,0.0
+b01b6d95dc99bfe272f8643ec18264ff7996b566,Use direct href on own site links on menu,,,,False,False,False,13,13,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 20:51:20",2019,"03/21/2019, 20:51:20",2019,4,0,2,0.7596899224806202,1,True,0.0
+365c9256bbb16045a67be9feccdcaff64f0637c9,"Podling lists are now sorted.
+
+Thanks to Paul King for his help on the Apache Groovy slack channel!",,,,False,False,False,4,3,1,1,dave@davefisher.tech,noreply@github.com,"03/21/2019, 23:02:04",2019,"03/21/2019, 23:02:04",2019,4,0,2,0.7615384615384615,1,True,0.0
+586b0c1fd9f5814c8d1f384478c8ac31e7273c93,Add Apache License Header,,,,False,False,False,11,0,1,1,dave@davefisher.tech,noreply@github.com,"03/24/2019, 20:48:39",2019,"03/24/2019, 20:48:39",2019,4,0,2,0.7633587786259541,1,True,0.0
+1d5aa8dc009e1dbca4e08214106014b5ebbacc2e,"Adjust the size and positioning of the Logos.
+
+Made the logos slightly smaller with better horizontal spacing.",,,,False,False,False,3,3,1,1,dave@davefisher.tech,noreply@github.com,"03/25/2019, 17:41:14",2019,"03/25/2019, 17:41:14",2019,3,0,2,0.7651515151515151,1,True,0.0
+617e0cbd8ad3c65c188f1c13b171284089af4d28,"Received a simplified version of sortedName.
+
+Got help with sorting from the Apache Groovy Slack channel. They followed up with a simpler version which is uploaded here.",,,,False,False,False,1,1,1,1,dave@davefisher.tech,noreply@github.com,"03/25/2019, 18:59:48",2019,"03/25/2019, 18:59:48",2019,4,0,2,0.7669172932330828,1,True,0.0
+292d56a4788731bc78381eac7bab805ad1038730,"Added ASF required menu items
+
+Missing security, licenses, and events links were added to the ASF menu.
+Added <hr/> tag on two menus.
+Added a Current Podlings menu item above Clutch Report",,,,False,False,False,7,3,1,1,dave@davefisher.tech,noreply@github.com,"03/25/2019, 20:03:23",2019,"03/25/2019, 20:03:23",2019,4,0,2,0.7686567164179104,1,True,0.0
+a5317945f3e1f42f0bcd65cc0144d98e68699fd1,"Cookbook draft, for discussion",,,,False,False,False,153,2,10,3,bdelacretaz@apache.org,bdelacretaz@apache.org,"03/26/2019, 16:46:59",2019,"03/26/2019, 16:46:59",2019,3,1,1,0.7703703703703704,2,False,0.0
+2715f0f7ff93038c7db872919e45ceba478d4b82,gitignore,,,,False,False,False,1,0,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"03/27/2019, 08:37:46",2019,"03/27/2019, 08:37:46",2019,2,1,1,0.7720588235294118,1,False,0.0
+d8e6143579d19730593e798c264ec0f376dc285f,Cookbook skeleton with all phases (at least that's the intent),,,,False,False,False,245,29,20,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"03/27/2019, 10:05:23",2019,"03/27/2019, 10:05:23",2019,2,1,1,0.7737226277372262,2,False,0.0
+c0a23c0d8b368274c928f537e599fa8a48f4a99e,Remove bottom note,,,,False,False,False,0,3,2,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"03/27/2019, 10:33:15",2019,"03/27/2019, 10:33:15",2019,2,1,1,0.7753623188405797,1,False,0.0
+d9b29de902821508e7e43535ce66001c240632b1,How to provide feedback,,,,False,False,False,8,3,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"03/27/2019, 13:12:43",2019,"03/27/2019, 13:12:43",2019,3,1,1,0.7769784172661871,1,False,0.0
+b61c99734c2b4301019d0310bc97971299379fda,"Improvement Plans Page (Proposed/Draft)
+
+A page to track JIRA issues and Improvement Plans. Once the CWiki is in place then we should move this over there with perhaps actual integration with JIRA.",,,,False,False,False,204,0,1,1,dave@davefisher.tech,noreply@github.com,"03/28/2019, 21:27:23",2019,"03/28/2019, 21:27:23",2019,4,0,2,0.7714285714285715,2,True,0.0
+7ccf31511ae794b785050d243eb52b7b00e3c308,"Better directions on website guide plus
+
+guides/ip_clearance.ad changed the title to Podling IP Clearance to disambiguate with IP Clearance which is not yet linked.",,,,False,False,False,7,4,2,2,dave@davefisher.tech,noreply@github.com,"03/28/2019, 22:08:14",2019,"03/28/2019, 22:08:14",2019,4,0,2,0.7730496453900709,1,True,0.0
+20c6621bf069eac4ed2384b7da250262d6273865,"INCUBATOR-234 - use a single file for the cookbook, multiple files are not useful",,,,False,False,False,205,344,21,2,bdelacretaz@apache.org,bdelacretaz@apache.org,"04/01/2019, 09:05:22",2019,"04/01/2019, 09:05:22",2019,2,1,1,0.7746478873239436,2,False,0.0
+87f25f9d8543b57873d87c9ef26ce14ef6424cc7,Rework the 'does my project fit' section,,,,False,False,False,26,9,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"04/01/2019, 10:13:28",2019,"04/01/2019, 10:13:28",2019,2,1,1,0.7762237762237763,2,False,0.0
+6c95ef2791c962a203ff41a1773e0f378daeff10,"New section, podling vs TLP",,,,False,False,False,37,0,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"04/01/2019, 10:49:20",2019,"04/01/2019, 10:49:20",2019,2,1,1,0.7777777777777778,2,False,0.0
+86b26c56e133e2c2853d1d2d5eb17377ebf8bed5,"SVN Clutch Analysis and Pages are separated
+
+build_clutch.sh now does all the SVN work and checks in the results to Git Master in Pages and Assets.
+build_site.sh and build_local.sh are now straightforward and simple.",,,,False,False,False,52,59,3,2,dave@davefisher.tech,noreply@github.com,"04/02/2019, 18:04:31",2019,"04/02/2019, 18:04:31",2019,4,0,2,0.7793103448275862,2,True,0.0
+35a47905b6b01a0dadce5300c9d8ea1963dc178f,Build_clutch.sh now handles cwd paths with spaces,,,,False,False,False,52,0,1,1,dave@davefisher.tech,noreply@github.com,"04/02/2019, 18:26:15",2019,"04/02/2019, 18:26:15",2019,4,0,2,0.7808219178082192,2,True,0.0
+1cd276ea665bb050d247c3ea5549cbd337b311ab,Adjust git push (try to fix new build),,,,True,True,False,1,1,1,1,dave@davefisher.tech,noreply@github.com,"04/02/2019, 18:43:13",2019,"04/02/2019, 18:43:13",2019,4,0,2,0.7755102040816326,1,True,0.0
+e9cce6e37e67c999f3ab54b299951cd42f7cc88f,Another try to fix issue,,,,True,True,False,1,1,1,1,dave@davefisher.tech,noreply@github.com,"04/02/2019, 18:56:04",2019,"04/02/2019, 18:56:04",2019,4,0,2,0.7702702702702703,1,True,0.0
+38079f8979e71f62235c518b880413e82196ca1e,"Take the git push out of the script ...
+
+Try in Jenkins",,,,False,False,False,1,1,1,1,dave@davefisher.tech,noreply@github.com,"04/02/2019, 19:14:24",2019,"04/02/2019, 19:14:24",2019,4,0,2,0.7718120805369127,1,True,0.0
+833fa646d7db88ab2d03e354b9c7087c9f8ee006,"Builds use a ""reserve"" in asf-site for SVN content",,,,False,False,False,25,7,2,2,dave@davefisher.tech,noreply@github.com,"04/02/2019, 20:42:38",2019,"04/02/2019, 20:42:38",2019,4,0,2,0.7733333333333333,1,True,0.0
+0a8c3697782e12f91a85fd6f2bffbb024cb10fa0,Additional changes. Nearly there,,,,False,False,False,2,3,2,2,dave@davefisher.tech,noreply@github.com,"04/02/2019, 21:01:26",2019,"04/02/2019, 21:01:26",2019,4,0,2,0.7748344370860927,1,True,0.0
+9e4f6ee32a7edf76e71bd2243cbec97d3bb4786d,Create README.txt,,,,False,False,False,1,0,1,1,dave@davefisher.tech,noreply@github.com,"04/02/2019, 21:29:27",2019,"04/02/2019, 21:29:27",2019,4,0,2,0.7763157894736842,1,True,0.0
+4c9f2ab9d4b3489d3fc1845602d4cb008bf32e7c,Make executable,,,,False,False,False,0,0,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"04/03/2019, 08:12:36",2019,"04/03/2019, 08:12:36",2019,2,1,1,0.7777777777777778,1,False,0.0
+8c9427bbf5aa69b9d9f05cc5b9553745f74e9603,INCUBATOR-231 - there are two builds now,,,,False,False,False,37,19,1,1,bdelacretaz@apache.org,noreply@github.com,"04/03/2019, 08:26:11",2019,"04/03/2019, 08:26:11",2019,2,1,2,0.7792207792207793,2,True,0.0
+720e31052b6fac50113480fc735673af61928ebd,simplify website info,,,,False,False,False,3,6,1,1,bdelacretaz@apache.org,noreply@github.com,"04/03/2019, 08:28:59",2019,"04/03/2019, 08:28:59",2019,2,1,2,0.7806451612903226,1,True,0.0
+47fd03f45005ac4a93b8f570d136cc33d8fe43e3,failures,,,,True,True,False,3,0,1,1,bdelacretaz@apache.org,noreply@github.com,"04/03/2019, 08:36:35",2019,"04/03/2019, 08:36:35",2019,2,1,2,0.7756410256410257,1,True,0.0
+224d6a16599010c193e5a549732548d0d7e0d2f5,nice link,,,,False,False,False,1,1,1,1,bdelacretaz@apache.org,noreply@github.com,"04/03/2019, 08:38:22",2019,"04/03/2019, 08:38:22",2019,2,1,2,0.7770700636942676,1,True,0.0
+c6489a9d2883d8e426ee688fd20aa057b4a475e8,fix link,,,,True,True,False,1,1,1,1,bdelacretaz@apache.org,noreply@github.com,"04/03/2019, 08:39:53",2019,"04/03/2019, 08:39:53",2019,2,1,2,0.7721518987341772,1,True,0.0
+724327ee8e074808c20c607b0ed7e453ebbb8133,point to svn,,,,False,False,False,3,0,1,1,bdelacretaz@apache.org,noreply@github.com,"04/03/2019, 08:45:41",2019,"04/03/2019, 08:45:41",2019,2,1,2,0.7735849056603774,1,True,0.0
+c3cb8a588ccafc020dd2c71a22a61f4e3c1c956a,Check for JBAKE_HOME,,,,False,False,False,6,0,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"04/03/2019, 08:49:18",2019,"04/03/2019, 08:49:35",2019,2,1,1,0.775,1,False,0.004722222222222222
+bfc4aa95a41005f826750156f592c8d060e1fdd6,"Updated build instructions
+
+Thanks to Bertrand for updates. Here are some more.",,,,False,False,False,5,10,1,1,dave@davefisher.tech,noreply@github.com,"04/03/2019, 22:50:33",2019,"04/03/2019, 22:50:33",2019,4,0,2,0.7763975155279503,1,True,0.0
+20a28911cdd66991cdce2bc0ffa9c58b62553697,Allow local build of SVN content if desired,,,,False,False,False,52,0,1,1,dave@davefisher.tech,noreply@github.com,"04/03/2019, 23:14:23",2019,"04/03/2019, 23:14:23",2019,4,0,2,0.7777777777777778,2,True,0.0
+54e4448be5333b33aaf6eb434a27b2f7b15289c5,More updates for added build_local_clutch.sh,,,,False,False,False,5,4,1,1,dave@davefisher.tech,noreply@github.com,"04/03/2019, 23:19:36",2019,"04/03/2019, 23:19:36",2019,4,0,2,0.7791411042944785,1,True,0.0
+545eada067bfce54bf8295dc5bec6665f0fb6dd1,List out clutch files provided,,,,False,False,False,12,0,1,1,dave@davefisher.tech,noreply@github.com,"04/03/2019, 23:35:45",2019,"04/03/2019, 23:35:45",2019,4,0,2,0.7804878048780488,1,True,0.0
+15d57726220642e1582b2bf81be669cc21de59dc,Two lists are blocked by .htaccess - won't fix,,,,True,True,False,0,2,1,1,dave@davefisher.tech,noreply@github.com,"04/03/2019, 23:39:27",2019,"04/03/2019, 23:39:27",2019,4,0,2,0.7757575757575758,1,True,0.0
+4a712c521da338467463beca36d83f3392939732,stronger clutch warning,,,,False,False,False,4,2,1,1,bdelacretaz@apache.org,noreply@github.com,"04/04/2019, 09:43:54",2019,"04/04/2019, 09:43:54",2019,2,1,2,0.7771084337349398,1,True,0.0
+905f9703acac82be7d6036a18ffdb2e96e738947,More specific commit messages,,,,False,False,False,4,2,2,2,bdelacretaz@apache.org,bdelacretaz@apache.org,"04/04/2019, 09:38:10",2019,"04/04/2019, 09:47:50",2019,2,1,1,0.7784431137724551,1,False,0.16111111111111112
+fab40fd9f781217489b720fb0ea784418989f613,"Podling Status Improvements
+
+A discussion of the current state of Podling status, the areas where improvements are needed and a plan for an improved UX.",,,,False,False,False,443,0,1,1,dave@davefisher.tech,noreply@github.com,"04/08/2019, 18:02:24",2019,"04/08/2019, 18:02:24",2019,4,0,2,0.7797619047619048,2,True,0.0
+7f52ba9d15ea3b15470da4f04d3103273bfc1107,Fix headings,,,,True,True,False,18,17,1,1,dave@davefisher.tech,noreply@github.com,"04/08/2019, 18:05:35",2019,"04/08/2019, 18:05:35",2019,4,0,2,0.7751479289940828,2,True,0.0
+df7276f6a27b98ff71b9ffe522737e8da173cfb8,Plan Podling Lifecycle UX in Whimsy,,,,False,False,False,260,0,1,1,dave@davefisher.tech,noreply@github.com,"04/09/2019, 16:26:39",2019,"04/09/2019, 16:26:39",2019,3,0,2,0.7764705882352941,2,True,0.0
+0ae750fcd1a90145effcb6eb3f260005928667f3,INCUBATOR-202 Proposal for enhancing graduation steps description,,,,False,False,False,33,19,1,1,skygo@apache.org,skygo@apache.org,"04/26/2019, 00:14:14",2019,"04/26/2019, 00:14:14",2019,1,0,0,0.7777777777777778,2,False,0.0
+72ad8270ab5acad26b25e4b4c83eed382d01bd98,"better explanation to present graduation worflow
+
+Co-Authored-By: ebarboni <skygo@apache.org>",,,,False,False,False,1,1,1,1,asf@shanecurcuru.org,noreply@github.com,"04/26/2019, 12:24:01",2019,"04/26/2019, 12:24:01",2019,3,1,2,0.7790697674418605,1,True,0.0
+2d1c171c179498656404cbec88aafedb940f15c9,limit PMC chair area of competence,,,,False,False,False,1,1,1,1,skygo@apache.org,skygo@apache.org,"04/26/2019, 12:55:37",2019,"04/26/2019, 12:55:37",2019,3,0,0,0.7803468208092486,1,False,0.0
+e63ae2d13cf55316388f20078baf89d5eb420480,typo fix,,,,True,True,False,1,1,1,1,skygo@apache.org,skygo@apache.org,"04/26/2019, 18:41:53",2019,"04/26/2019, 18:41:53",2019,4,0,0,0.7758620689655172,1,False,0.0
+9f8ecedbc28b5548c04837edc20fc8346e6133df,INCUBATOR-202 Distribution mirrors section,,,,False,False,False,1,1,1,1,skygo@apache.org,skygo@apache.org,"04/29/2019, 13:18:05",2019,"04/29/2019, 13:18:05",2019,3,0,0,0.7771428571428571,1,False,0.0
+0b2ce125e75caea278cd0f4061cd3702cd58763e,tell to keep the incubator released artefacts in incubator,,,,False,False,False,3,1,1,1,skygo@apache.org,skygo@apache.org,"04/29/2019, 14:44:37",2019,"04/29/2019, 14:44:37",2019,3,0,0,0.7784090909090909,1,False,0.0
+24eca92f852c563066fda83fb6781ce64393fde4,add choice on how to handle incubating artefacts,,,,False,False,False,3,1,1,1,skygo@apache.org,skygo@apache.org,"04/30/2019, 12:21:35",2019,"04/30/2019, 12:21:35",2019,3,0,0,0.7796610169491526,1,False,0.0
+9eb1a3e058904c4f0ff4be6ba769f6d78c7df202,adjust section,,,,False,False,False,4,1,1,1,skygo@apache.org,skygo@apache.org,"04/30/2019, 14:15:54",2019,"04/30/2019, 14:15:54",2019,3,0,0,0.7808988764044944,1,False,0.0
+d1343eb4810026d73a97b98f6032549b4345311c,fix grammar,,,,True,True,False,2,2,1,1,skygo@apache.org,skygo@apache.org,"04/30/2019, 14:22:52",2019,"04/30/2019, 14:22:52",2019,3,0,0,0.776536312849162,1,False,0.0
+33ecf33973c0938ccee428630af5a4e55bcb9e5f,Experiment with automatic Board report formatting,,,,False,False,False,386,0,8,4,bdelacretaz@apache.org,bdelacretaz@apache.org,"05/20/2019, 10:09:39",2019,"05/20/2019, 10:09:39",2019,2,1,1,0.7777777777777778,2,False,0.0
+71701e0ee3bb4a4d744af8fa2c5d88219ceb128d,"Remove board formatting experiment, back to c1e6631",,,,False,False,False,0,1440,8,4,bdelacretaz@apache.org,bdelacretaz@apache.org,"05/22/2019, 09:09:53",2019,"05/22/2019, 09:10:05",2019,2,1,1,0.7790055248618785,2,False,0.0033333333333333335
+2c20e4795aef29fe8c9d574295391384a87873b7,"Tools directory
+
+Share recipes and tools for podlings.",,,,False,False,False,1,0,1,1,dave@davefisher.tech,noreply@github.com,"06/19/2019, 15:36:33",2019,"06/19/2019, 15:36:33",2019,3,0,2,0.7802197802197802,1,True,0.0
+a89085f147f3fd104573eaa5996066cadee529a9,Make retirement votes LAZY,,,,False,False,False,2,1,1,1,dave@davefisher.tech,noreply@github.com,"06/19/2019, 17:36:20",2019,"06/19/2019, 17:36:20",2019,3,0,2,0.7814207650273224,1,True,0.0
+b059e3af470fb8be5df70882ba7b6f0cecf884ce,Add Post-graduation tasks,,,,False,False,False,9,1,1,1,bdelacretaz@apache.org,noreply@github.com,"07/18/2019, 06:41:11",2019,"07/18/2019, 06:41:11",2019,2,1,2,0.782608695652174,1,True,0.0
+7de703aedabf5abc9e98f381570a534d60301b86,Remove the draft notice and rework the intro,,,,False,False,False,11,15,1,1,bdelacretaz@apache.org,noreply@github.com,"07/18/2019, 06:50:11",2019,"07/18/2019, 06:50:11",2019,2,1,2,0.7837837837837838,1,True,0.0
+1701a7fc39969f0279b26f24a6d21d616581c56f,Rework the homepage as discussed in the 'overzealous bureaucracy' general@ thread,,,,False,False,False,36,20,2,2,bdelacretaz@apache.org,bdelacretaz@apache.org,"07/18/2019, 07:55:16",2019,"07/18/2019, 07:55:16",2019,2,1,1,0.7849462365591398,1,False,0.0
+e03e2c7881f17261a250d59ade2e2fe6ccc8efcc,"better commas
+
+Co-Authored-By: Matt Sicker <boards@gmail.com>",,,,False,False,False,1,1,1,1,bdelacretaz@apache.org,noreply@github.com,"07/19/2019, 14:10:17",2019,"07/19/2019, 14:10:17",2019,3,1,2,0.786096256684492,1,True,0.0
+da48176b8dc80f140bbfeb17e58cd68bcfd256e1,"grammar
+
+Co-Authored-By: Matt Sicker <boards@gmail.com>",,,,False,False,False,1,1,1,1,bdelacretaz@apache.org,noreply@github.com,"07/19/2019, 14:10:33",2019,"07/19/2019, 14:10:33",2019,3,1,2,0.7872340425531915,1,True,0.0
+18cd6ed02552b1cccc217cc329f936ffe75c43ce,Make the automated publishing info more prominent,,,,False,False,False,21,22,1,1,bdelacretaz@apache.org,noreply@github.com,"07/22/2019, 14:18:29",2019,"07/22/2019, 14:18:29",2019,3,1,2,0.7883597883597884,2,True,0.0
+ffd03ca7dc83a2ce1af94086f6966fa0214164f4,Add menu item for IP Clearance,,,,False,False,False,1,0,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"07/24/2019, 16:15:42",2019,"07/24/2019, 16:15:42",2019,3,1,1,0.7894736842105263,1,False,0.0
+c39564653652128fada39855efa5ac6e03c236a3,"fix links and spelling, clarify a a couple of things and remove a couple of misleading or unneeded items",,,,True,True,False,39,64,8,6,jmclean@apache.org,jmclean@apache.org,"07/25/2019, 01:32:13",2019,"07/25/2019, 01:32:13",2019,1,1,1,0.7853403141361257,1,False,0.0
+b6bdf9f37c359a14124c5cfe19abf4676141f693,move role and responsibilities page,,,,False,False,False,252,12,5,5,jmclean@apache.org,jmclean@apache.org,"07/25/2019, 02:31:56",2019,"07/25/2019, 02:31:56",2019,1,1,1,0.7864583333333334,2,False,0.0
+e55f00b2b736916b07cd9058f1b7dbd7acf5addc,Only include policy on the policy pages,,,,False,False,False,34,272,2,1,jmclean@apache.org,jmclean@apache.org,"07/25/2019, 02:35:35",2019,"07/25/2019, 02:35:35",2019,1,1,1,0.7875647668393783,2,False,0.0
+9157a7a51e3e21184b47999d74001e427ed57439,move termination clause from hiding at the bottom of branding,,,,False,False,False,4,5,2,2,jmclean@apache.org,jmclean@apache.org,"07/25/2019, 02:40:13",2019,"07/25/2019, 02:40:13",2019,1,1,1,0.788659793814433,1,False,0.0
+8f2d8a8973b13510db033867a8f559b8b2d0793b,clarify link and fix heading level,,,,True,True,False,4,2,1,1,jmclean@apache.org,jmclean@apache.org,"07/25/2019, 03:15:07",2019,"07/25/2019, 03:15:07",2019,1,1,1,0.7846153846153846,1,False,0.0
+74b905bb30fe269f750213d1160e707612f94b30,Just one policy document,,,,False,False,False,1,3,1,1,jmclean@apache.org,jmclean@apache.org,"07/25/2019, 03:22:54",2019,"07/25/2019, 03:22:54",2019,1,1,1,0.7857142857142857,1,False,0.0
+c8d31f25e16788303f78a896a7c625a6949cba0c,Moved page was missing from the 'guides' menu,,,,False,False,False,1,1,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"07/25/2019, 07:07:04",2019,"07/25/2019, 07:07:04",2019,2,1,1,0.7868020304568528,1,False,0.0
+1b45630bbd37e15804880f43b60882b65283dd0d,"Fix link to Board minutes, quote a larger part of the resolution, remove now redundant information right after that and link to cookbook",,,,True,True,False,19,9,1,1,bdelacretaz@apache.org,bdelacretaz@apache.org,"07/25/2019, 07:25:16",2019,"07/25/2019, 07:25:16",2019,2,1,1,0.7828282828282829,1,False,0.0
+0839f4b88df5bd0d7aa8fe71d635b1ca6d8dfbc9,add requirement to have incubating in name,,,,False,False,False,3,2,1,1,jmclean@apache.org,jmclean@apache.org,"07/26/2019, 00:22:15",2019,"07/26/2019, 00:22:15",2019,1,1,1,0.7839195979899498,1,False,0.0
+f50c9b65e8a694ef66a3b82e5dad958efdf6070b,fix a coueple of links,,,,True,True,False,3,3,1,1,jmclean@apache.org,jmclean@apache.org,"07/27/2019, 04:12:31",2019,"07/27/2019, 04:12:31",2019,1,1,1,0.78,1,False,0.0
+8edeb5b4352485cdd1b4e501df5f4ee121721eff,simplify and update to be more in line of how things are currently done,,,,False,False,False,35,27,1,1,jmclean@apache.org,jmclean@apache.org,"07/27/2019, 05:20:26",2019,"07/27/2019, 05:20:26",2019,1,1,1,0.7810945273631841,2,False,0.0
+994f78b4b9304878316a8c85357a4171ced8ef6f,minor update based on feedback,,,,False,False,False,4,4,1,1,jmclean@apache.org,jmclean@apache.org,"07/27/2019, 23:41:36",2019,"07/27/2019, 23:41:36",2019,4,1,1,0.7821782178217822,1,False,0.0
+9e0fe3eada198732d843e44999a9183553269c09,minor updates from feedback,,,,False,False,False,2,2,1,1,jmclean@apache.org,jmclean@apache.org,"07/27/2019, 23:56:33",2019,"07/27/2019, 23:56:33",2019,4,1,1,0.7832512315270936,1,False,0.0
+fc86cc2bbfdd5878a958627cedb02591197777ae,feedback and adding PPMC members,,,,False,False,False,8,3,1,1,jmclean@apache.org,jmclean@apache.org,"08/02/2019, 01:18:23",2019,"08/02/2019, 01:18:23",2019,1,1,1,0.7843137254901961,1,False,0.0
+816f9f36d977d0d6b74eb3343c434706dddefe7a,add WIP disclaimer,,,,False,False,False,48,8,1,1,jmclean@apache.org,jmclean@apache.org,"08/02/2019, 01:36:09",2019,"08/02/2019, 01:36:09",2019,1,1,1,0.7853658536585366,2,False,0.0
+2b2f6293c629b188354ce7fb1a1be0ad1f3dc1bc,fix formatting,,,,True,True,False,1,1,1,1,jmclean@apache.org,jmclean@apache.org,"08/02/2019, 02:10:24",2019,"08/02/2019, 02:10:24",2019,1,1,1,0.7815533980582524,1,False,0.0
+9b2a7c84aaf659b50f6c1919367cd3d9ee2364dc,Fix link to Apache Website Template repository,,,,True,True,False,1,1,1,1,lresende@apache.org,lresende@apache.org,"08/05/2019, 15:59:58",2019,"08/06/2019, 17:36:42",2019,3,2,2,0.7777777777777778,1,False,25.612222222222222
+35f95245c092101190c859a75872a40a12650a3a,group and organise guides,,,,False,False,False,24,4,1,1,jmclean@apache.org,jmclean@apache.org,"08/09/2019, 03:09:56",2019,"08/09/2019, 03:09:56",2019,1,1,1,0.7788461538461539,1,False,0.0
+130072b42e4e84f660df834995789288c1200615,reorganise menus,,,,False,False,False,15,10,1,1,jmclean@apache.org,jmclean@apache.org,"08/10/2019, 02:02:00",2019,"08/10/2019, 02:02:00",2019,1,1,1,0.7799043062200957,1,False,0.0
+605af734e6d17e636fe040463a60ac263b7935fb,Add some links to some other Apache Way / incubator talks,,,,False,False,False,15,0,1,1,jmclean@apache.org,jmclean@apache.org,"08/11/2019, 04:32:57",2019,"08/11/2019, 04:32:57",2019,1,1,1,0.780952380952381,1,False,0.0
+31a644d6fbbadd837ab1d06b78c56b00b711b4ed,fix link,,,,True,True,False,2,2,1,1,jmclean@apache.org,jmclean@apache.org,"08/11/2019, 05:08:26",2019,"08/11/2019, 05:08:26",2019,1,1,1,0.7772511848341233,1,False,0.0
+475587514505cc9fd067f1b64ea817fde3db214e,"Adjust Incubator status URL
+
+- Fix path to include 'projects' rather than 'project'
+- Changed http to https (http works, but IMO preferring https when available is a good practice)",,,,True,True,False,1,1,1,1,gianmerlino@gmail.com,noreply@github.com,"08/14/2019, 15:19:09",2019,"08/14/2019, 15:19:09",2019,3,0,2,0.7735849056603774,1,True,0.0
+1f325b8223b902e7724c8d57679b07281d1af20a,Add section on disclaimers for clarity,,,,False,False,False,46,10,1,1,jmclean@apache.org,jmclean@apache.org,"08/24/2019, 01:42:31",2019,"08/24/2019, 01:42:31",2019,1,1,1,0.7746478873239436,2,False,0.0
+77daebd39a3edc6c378a425a5f3d709883801c72,minor word changes,,,,False,False,False,3,3,1,1,jmclean@apache.org,jmclean@apache.org,"08/24/2019, 01:46:19",2019,"08/24/2019, 01:46:19",2019,1,1,1,0.7757009345794392,1,False,0.0
+85ea91870d6ccbb925ebf4e38d4f637e31112337,fix new lines (add double spaces),,,,True,True,False,12,12,1,1,jmclean@apache.org,jmclean@apache.org,"08/24/2019, 02:25:52",2019,"08/24/2019, 02:25:52",2019,1,1,1,0.772093023255814,1,False,0.0
+b274f704ecebeb3ca1bfffe9bb9408d627014f8c,clarify a tiny bit,,,,False,False,False,3,3,1,1,jmclean@apache.org,jmclean@apache.org,"08/24/2019, 02:30:55",2019,"08/24/2019, 02:30:55",2019,1,1,1,0.7731481481481481,1,False,0.0
+b0666c777cd56e4c5471244248034b0b854affa7,lists need * rather than -,,,,False,False,False,14,12,1,1,jmclean@apache.org,jmclean@apache.org,"08/24/2019, 02:36:01",2019,"08/24/2019, 02:36:01",2019,1,1,1,0.7741935483870968,1,False,0.0
+3a23e60bbe78ff127264256d225d5dcc9ac97ee7,Fixed broken link for git repo requests,,,,True,True,False,1,1,1,1,lenferinkroy@gmail.com,lenferinkroy@gmail.com,"08/25/2019, 10:23:48",2019,"08/25/2019, 10:23:48",2019,2,0,0,0.7706422018348624,1,False,0.0
+f43e6e2a88c2bded103ac8b7cd692cb07fffd226,Fix typo Apaeh to Apache,,,,True,True,False,1,1,1,1,11813607+empeje@users.noreply.github.com,noreply@github.com,"09/15/2019, 14:53:50",2019,"09/15/2019, 14:53:50",2019,3,0,2,0.7671232876712328,1,True,0.0
+1ddf721a5d8f5739571dee8bb4dcaac3021a61f2,Update building reference to incubator website,,,,False,False,False,3,1,1,1,lresende@apache.org,lresende@apache.org,"09/23/2019, 22:04:09",2019,"09/23/2019, 22:04:09",2019,4,2,2,0.7681818181818182,1,False,0.0
+ce30f90fef8f9ace6470044a17fb51c9297f85b6,"Cleaned up page, fixed a few spelling issues, add link to release slides",,,,True,True,False,15,44,1,1,jmclean@apache.org,jmclean@apache.org,"10/05/2019, 22:35:41",2019,"10/05/2019, 22:35:41",2019,4,1,1,0.7647058823529411,2,False,0.0
+bdaac5aa255257f6c220d254786f6e4b8331b8a6,ignore .history,,,,False,False,False,1,0,1,1,jmclean@apache.org,jmclean@apache.org,"10/05/2019, 22:36:11",2019,"10/05/2019, 22:36:11",2019,4,1,1,0.7657657657657657,1,False,0.0
+50b8a4346738d0ebfccd557563f450b3d8d1e532,Moved template to wiki and cleaned up by fixied a few minor issues and broken links,,,,False,False,False,45,830,1,1,jmclean@apache.org,jmclean@apache.org,"10/07/2019, 00:21:02",2019,"10/07/2019, 00:21:02",2019,1,1,1,0.7623318385650224,2,False,0.0
+2ebf681dd431ed249c53864553c6e4c7c5df2741,Add a little more information and simply some language.,,,,False,False,False,372,0,1,1,jmclean@apache.org,jmclean@apache.org,"10/07/2019, 01:27:30",2019,"10/07/2019, 01:27:30",2019,1,1,1,0.7633928571428572,2,False,0.0
+262fda4ccf0fd64b00d8c84caefdd41b38668ad7,Add a little more information and simply some language.,,,,False,False,False,32,38,1,1,jmclean@apache.org,jmclean@apache.org,"10/07/2019, 01:52:18",2019,"10/07/2019, 01:52:18",2019,1,1,1,0.7644444444444445,2,False,0.0

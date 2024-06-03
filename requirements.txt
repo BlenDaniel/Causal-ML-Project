@@ -1,0 +1,14 @@
+pandas==1.5.3
+scikit-learn==1.1.3
+matplotlib==3.7.1
+numpy==1.23.5
+dowhy==0.9.1
+jupyterlab==3.6.3
+notebook==6.5.4
+ipywidgets==8.0.6
+spacy==3.5.1
+networkx==2.8.5
+contribution-complexity==0.1.1
+lizard==1.17.10
+ipython==8.13.2
+pandoc==2.3
