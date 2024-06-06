@@ -67,6 +67,8 @@ python3 -m pip install -U --no-cache-dir  \
         --config-settings="--global-option=-L$(brew --prefix graphviz)/lib/" \
         pygraphviz
 ```
+
+See this stack: https://stackoverflow.com/questions/15661384/python-does-not-see-pygraphviz/71661788#71661788
 3. Install the requirements
 ```
     pip3 install -r requirements.txt
