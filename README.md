@@ -58,7 +58,15 @@ https://github.com/grimasta/SERDat/
 
     pip3 install pygraphviz --global-option=build_ext --global-option="-I$GRAPHVIZ_DIR/include" --global-option="-L$GRAPHVIZ_DIR/lib"
 ```
+OR
 
+```
+python3 -m pip install -U --no-cache-dir  \
+        --config-settings="--global-option=build_ext" \
+        --config-settings="--global-option=-I$(brew --prefix graphviz)/include/" \
+        --config-settings="--global-option=-L$(brew --prefix graphviz)/lib/" \
+        pygraphviz
+```
 3. Install the requirements
 ```
     pip3 install -r requirements.txt
